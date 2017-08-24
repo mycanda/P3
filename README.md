@@ -1,2 +1,3 @@
 # P3
 This is a simple Visual Basic (VB) program that displays the current day, date, and time in various formats. The zip file contains the solution (source codes) and necessary content for the program to work. This program was developed using Visual Studio 2013 Professional.
+In this project, there are multiple types of objects used to experience how the objects work and what there purpose is. Some of the objects used are textboxes, group boxes, check boxes, and radio buttons. The program is designed as if you were a college student. Once again, its a simple program to experience how some of the objects are used in Visual Basic. 
